@@ -17,7 +17,7 @@ Basic knowledge of MikroTik RouterOS
 # Docker Images
 Choose the appropriate image for your architecture:
 
-ARM: dashti75/xrayr-mikrotik-arm
+ARM: dashti75/xrayr-mikrotik-arm64
 
 x86_64: dashti75/xrayr-mikrotik-x86_64
 
