@@ -4,7 +4,7 @@ An easy-to-use, precompiled XrayR Docker image for MikroTik devices.
 # Requirements
 MikroTik CHR or compatible device with:
 
-x86_64 or armv7 (x86) architecture
+x86_64 or arm (x64) architecture
 
 Container support enabled
 
@@ -15,7 +15,7 @@ Basic knowledge of MikroTik RouterOS
 # Docker Images
 Choose the appropriate image for your architecture:
 
-ARMv7: dashti75/xrayr-mikrotik-armv7
+ARM: dashti75/xrayr-mikrotik-arm
 
 x86_64: dashti75/xrayr-mikrotik-x86_64
 
@@ -34,7 +34,7 @@ Pull and run the container:
 
 # Code
 /container add remote-image=dashti75/xrayr-mikrotik-[ARCH] interface=veth1 root-dir=/xrayr mount=xrayr_config
-Replace [ARCH] with either armv7 or x86_64 based on your device.
+Replace [ARCH] with either arm or x86_64 based on your device.
 
 Start the container:
 
