@@ -1,6 +1,8 @@
 ## XrayR-Mikrotik-Docker
 An easy-to-use, precompiled XrayR Docker image for MikroTik devices.
 
+# armv7 image uploaded in .tar format you can use
+
 # Requirements
 MikroTik CHR or compatible device with:
 
@@ -51,3 +53,7 @@ Make sure your config.yml is properly formatted before starting the container
 
 Support
 For issues or questions, please open an issue in the GitHub repository.
+
+Made with ❤️ by @SudoMds
+
+
