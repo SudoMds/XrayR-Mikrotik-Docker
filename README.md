@@ -1,5 +1,5 @@
 ## XrayR-Mikrotik-Docker
-An easy-to-use, precompiled XrayR Docker image for MikroTik devices.
+An easy-to-use, precompiled XrayR Docker image for MikroTik.
 
 # armv7 image uploaded in .tar format you can use
 
